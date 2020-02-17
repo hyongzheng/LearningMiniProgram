@@ -15,7 +15,7 @@
 		"scopeDataCheck": false
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
+	"libVersion": "2.10.1",
 	"appid": "wx59e84d6f7f243772",
 	"projectname": "miniProgram-1",
 	"debugOptions": {
